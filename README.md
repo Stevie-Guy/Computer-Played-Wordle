@@ -17,4 +17,4 @@ This is a classic wordle game but instead of a human playing the game, the compu
 ## How to play it
 - [Install](https://code.visualstudio.com/download) Visual Studio Code for Windows 10 and the [GCC Compiler](https://sourceforge.net/projects/mingw-w64/)(Windows 10 is necessary). 
 - Download all of the files in a single folder.
-- Compile and run `wordle.cpp`, then run the `wordle.exe` file that was created in the same folder
+- Compile and run `joc_wordle.cpp`, then run the `joc_wordle.exe` file that was created in the same folder

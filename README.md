@@ -6,7 +6,7 @@ A wordle game played by the computer.
 - Compiler: gcc (MinGW.org GCC-6.3.0-1) 6.3.0
 
 ## About the project
-This is a classic wordle game but instead of a player playing the game, the computer is trying to guess the word. I made this project because a friend of mine had to do it for University and I wanted to try it out too. The code is not 100% perfect, sometimes the computer doesn't guess the word because of the multiple words (3 or more) having only 1 letter different from each other.
+This is a classic wordle game but instead of a human playing the game, the computer is playing it by itself. I made this project because a friend of mine had it as an University project and I wanted to try it out too. The code is not 100% perfect, sometimes the computer doesn't guess the word because of the multiple words (3 or more) having only 1 letter different from each other.
 
 ## How it works
 - After you run the code the computer chooses a word from `wordle.txt` using the program `randcuv.hpp`

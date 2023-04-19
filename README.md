@@ -13,3 +13,8 @@ This is a classic wordle game but instead of a human playing the game, the compu
 - After choosing the word, the computer tries to guess the word, the first try will always be the first word in the `wordle.txt` file
 - Then the computer uses the information that it collected from the previous try to make better and better guesses, like a player would
 - The game ends either when the computer guesses the word(90% of the times) or when it runs out of chances (it has 6)
+
+## How to play it
+- [Install](https://code.visualstudio.com/download) Visual Studio Code for Windows 10 and the [GCC Compiler](https://sourceforge.net/projects/mingw-w64/)(Windows 10 is necessary). 
+- Download all of the files in a single folder.
+- Compile and run `wordle.cpp`, then run the `wordle.exe` file that was created in the same folder
